@@ -72,7 +72,7 @@ const Navbar = () => {
         duration={500}
         className="navItem"
       >
-        <h3 className="navItem__text">About</h3>
+        <h3 className="navItem__text">Contact</h3>
         <span className="navItem__circle"></span>
       </Link>
     </div>

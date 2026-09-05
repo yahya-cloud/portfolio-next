@@ -39,9 +39,9 @@ const Header = () => {
           for full-time opportunities.
         </h3>
 
-        <a href="/assets/Resume.pdf" download>
-          <button className="text__box--button">download CV</button>
-        </a>
+       <a href="/assets/Resume.pdf" target="_blank" rel="noopener noreferrer">
+        <button className="text__box--button">Download CV</button>
+       </a>
       </div>
       <div
         className="skills_box"

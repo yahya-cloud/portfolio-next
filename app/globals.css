@@ -28,9 +28,9 @@ section:last-child {
     font-size: 40%;
   }
 
-/* section {
-  padding-bottom: 14rem;
-} */
+ section {
+  padding-bottom: 12rem;
+} 
 }
 
 @media only screen and (min-width: 2000px) {

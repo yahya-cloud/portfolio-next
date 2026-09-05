@@ -32,7 +32,7 @@ export const ExperienceList = [
     name: "Major League Hacking",
     bulletPoints: [
       "Worked with a pod of 15 people worldwide by collaborating on two projects, gave regular standups and retrospectives.",
-      "Built a Jenkins portfolio website and a performant weather app using React"
+      "Built a Jenkins portfolio website and a performant weather app using React."
     ],
     timeline: { start: "APR 2022", end: "MAY 2022" },
     location: { country: "USA", city: "Remote" },

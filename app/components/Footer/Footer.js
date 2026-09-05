@@ -41,7 +41,7 @@ const Footer = (props) => {
               className="about_container"
             >
               <p className="about_info">
-                Software Engineer based in Berlin, currently pursuing an M.Sc.
+                I'm a Software Engineer based in Berlin, currently pursuing an M.Sc.
                 in Artificial Intelligence. My work centers on building
                 reliable, scalable products that balance performance, usability,
                 and simplicity. I enjoy tackling complex challenges, improving

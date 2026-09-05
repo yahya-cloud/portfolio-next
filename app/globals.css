@@ -1,0 +1,69 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+html {
+  box-sizing: border-box;
+  font-size: 62.5%;
+  scroll-behavior: smooth;
+}
+
+section {
+  padding-bottom: 14rem;
+}
+
+section:last-child {
+  padding-bottom: 2rem;
+}
+
+.sections_line {
+  width: 100%;
+  height: 1px;
+  background: rgba(242, 163, 101, 0.35);
+  margin-bottom: 4rem;
+}
+
+
+@media only screen and (max-width: 1200px) {
+  html {
+    font-size: 50%;
+  }
+}
+
+@media only screen and (max-width: 900px) {
+  html {
+    font-size: 40%;
+  }
+
+ section {
+  padding-bottom: 12rem;
+} 
+}
+
+@media only screen and (min-width: 2000px) {
+  html {
+    font-size: 100%;
+  }
+}
+
+body {
+  margin: 0;
+  font-family: "Ubuntu", Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overflow-x: hidden;
+}
+
+code {
+  font-family:
+    source-code-pro, Menlo, Monaco, Consolas, "Courier New", monospace;
+}
+
+.App {
+  overflow-x: hidden;
+}
+
+a:hover {
+  text-decoration: none !important;
+}

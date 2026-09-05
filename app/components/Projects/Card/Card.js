@@ -23,11 +23,11 @@ const Card = (props) => {
     <div className="card" style={cardStyle}>
       <div className="card_overlay">
         <div className="icon_box">
-          <a href={props.viewLink} target="_blank" rel="noreferrer">
-            <IconButton>
-              <VisibilityIcon style={iconStyle} />
-            </IconButton>
-          </a>
+          // <a href={props.viewLink} target="_blank" rel="noreferrer">
+          //   <IconButton>
+          //     <VisibilityIcon style={iconStyle} />
+          //   </IconButton>
+          // </a>
 
           <a href={props.gitLink} target="_blank" rel="noreferrer">
             <IconButton>

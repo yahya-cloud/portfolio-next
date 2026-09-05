@@ -2,8 +2,8 @@ export const ExperienceList = [
   {
     name: "SIEMENS",
     bulletPoints: [
-      "Led frontend development of a Factory Orders Quality Assurance application adopted by 10 SIEMENS factories globally, including 2 in Germany",
-      "Refactored a frontend codebase into a domain-driven architecture and improved maintainability through better state management. Also upgraded libraries and deprecated code using an internal MCP server, later conducted a workshop to share the approach",
+      "Led frontend development of a Factory Orders Quality Assurance application adopted by 10 SIEMENS factories globally, including 2 in Germany.",
+      "Refactored a frontend codebase into a domain-driven architecture and improved maintainability through better state management. Also upgraded libraries and deprecated code using an internal MCP server, later conducted a workshop to share the approach.",
       "Integrated analytics tool to track application adoption, feature usage, user behavior, and geographic trends, enabling data-driven decisions for project managers.",
       "Implemented multiprocessing in a FastAPI server wrapping a Factory Inventory Simulation Model, enabling parallel simulation runs across multiple CPU cores and achieving a 4x speedup in execution time.",
       "Optimized handling of large simulation-generated datasets through Parquet file storage and chunked uploads/reads, and built visualizations that helped data scientists interpret and improve the model.",

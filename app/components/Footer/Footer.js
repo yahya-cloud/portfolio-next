@@ -10,7 +10,7 @@ const Footer = (props) => {
   return (
     <section className="footer" id="about">
       <div className="footer_wrapper">
-        <h1 className="footer_heading">About</h1>
+        <h1 className="footer_heading">Contact</h1>
         <div className="footer_line" />
         {" "}
         <Grid
